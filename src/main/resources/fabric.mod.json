@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "fovunbound",
+  "version": "${version}",
+  "name": "FOVUnbound",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/fovunbound/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.tori.fovu.client.FovunboundClient"
+    ],
+    "main": [
+      "dev.tori.fovu.Fovunbound"
+    ]
+  },
+  "mixins": [
+    "fovunbound.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
