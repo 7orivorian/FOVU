@@ -3,7 +3,7 @@
   "id": "fovu",
   "version": "${version}",
   "name": "FOVUnbound",
-  "description": "",
+  "description": "Increases the bounds of the FOV slider!",
   "authors": [
     "7orivorian",
     "CryroByte"
