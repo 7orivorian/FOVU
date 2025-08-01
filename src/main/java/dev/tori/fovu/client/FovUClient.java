@@ -5,7 +5,7 @@ import net.fabricmc.api.ClientModInitializer;
 public class FovUClient implements ClientModInitializer {
 
     public static final String MOD_ID = "fovu";
-    public static final String MOD_NAME = "FOVUnbound";
+    public static final String MOD_NAME = "FOVU";
     public static final String MOD_VERSION = "1.0.0";
 
     public static final int MIN_FOV = 1;
