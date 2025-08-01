@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "fovu",
   "version": "${version}",
-  "name": "FOVUnbound",
+  "name": "FOVU",
   "description": "Increases the bounds of the FOV slider!",
   "authors": [
     "7orivorian",
