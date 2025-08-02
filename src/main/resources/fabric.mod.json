@@ -3,7 +3,7 @@
   "id": "fovu",
   "version": "${version}",
   "name": "FOVU",
-  "description": "Increases the bounds of the FOV slider!",
+  "description": "Increases the bounds of the vanilla FOV slider!",
   "authors": [
     "7orivorian",
     "CryroByte"
