@@ -5,7 +5,9 @@
   "name": "FOVU",
   "description": "Increases the bounds of the vanilla FOV slider!",
   "authors": [
-    "7orivorian",
+    "7orivorian"
+  ],
+  "contributors": [
     "CryroByte"
   ],
   "contact": {},
