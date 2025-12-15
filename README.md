@@ -39,3 +39,8 @@ server.
 **A:** Absolutely! You may freely use an unmodified version of this mod in any
 modpacks/videos/etc without contacting me for approval. I would greatly
 appreciate a link back to this Modrinth page if you do use my mod!
+
+## Where's the Code?
+
+The source code is split by Minecarft version via Git branches for easier
+maintenance.
