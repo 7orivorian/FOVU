@@ -43,5 +43,5 @@ appreciate a link back to this Modrinth page if you do use my mod!
 ## Where's the Code?
 
 The source code is split by Minecarft version via Git branches for easier
-maintenance. [Click here](https://github.com/7orivorian/FOVU/branches) 
+maintenance. [Click here](https://github.com/7orivorian/FOVU/branches/all) 
 to view a list of branches.
