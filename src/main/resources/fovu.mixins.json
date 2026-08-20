@@ -2,12 +2,12 @@
   "required": true,
   "minVersion": "0.8",
   "package": "dev.tori.fovu.mixin",
-  "compatibilityLevel": "JAVA_21",
+  "compatibilityLevel": "JAVA_25",
   "mixins": [
   ],
   "client": [
-    "client.MixinGameOptions",
-    "client.MixinGameRenderer"
+    "client.MixinCamera",
+    "client.MixinOptions"
   ],
   "injectors": {
     "defaultRequire": 1
