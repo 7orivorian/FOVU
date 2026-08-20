@@ -6,8 +6,8 @@
   "mixins": [
   ],
   "client": [
-    "client.MixinGameOptions",
-    "client.MixinGameRenderer"
+    "client.MixinCamera",
+    "client.MixinOptions"
   ],
   "injectors": {
     "defaultRequire": 1
